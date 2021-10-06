@@ -50,6 +50,7 @@ const Text = () => {
             </div>
             <p className='made'>Made with by <span className='bilu'>BILAL</span> </p>
             <p className='pomo'>©Pomofocus 2021. All Rights Reserved.</p>
+            <p className='pomo'>©Pomofocus 2021. All Rights Reserved.</p>
 
         </div>
     )
