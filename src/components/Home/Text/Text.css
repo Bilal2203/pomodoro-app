@@ -1,0 +1,160 @@
+.textfirst{
+    margin: 100px 300px;
+    width: 820px;
+    height: 78px;
+    
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 47px;
+    line-height: 39px;
+    color: #000000;
+}
+
+.texttheme1{
+    margin: 80px 300px;
+    width: 450px;
+    height: 0px;
+    font-family: Montserrat;
+    font-size: 40px;
+    color: #000000;
+}
+
+.hr1{
+    margin: 20px 300px;
+    width: 90px;
+    border: 3px solid #E49C99
+}
+
+.text1{
+    margin: 60px 300px;
+    width: 760px;
+    height: 111px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.texttheme2{
+    margin: 100px 300px;
+    width: 450px;
+    height: 0px;
+    font-family: Montserrat;
+    font-size: 40px;
+    color: #000000;
+}
+
+.hr2{
+    margin: 130px 300px;
+    width: 90px;
+    border: 3px solid #E49C99  
+}
+
+.text2{
+    margin: -65px 300px;
+    width: 780px;
+    height: 111px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.texttheme3{
+    margin: 180px 300px;
+    font-family: Montserrat;
+    font-size: 40px;
+    color: #000000;
+}
+
+.hr3{
+    margin: -140px 300px;
+    width: 90px;
+    border: 3px solid #E49C99    
+}
+
+ol{
+    margin-top: 220px;
+}
+
+li{
+    margin-top: 40px;
+    margin-left: 280px;
+    width: 640px;
+    height: 20px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 20px;
+}
+
+.texttheme4{
+    margin:80px 300px;
+    font-family: Montserrat;
+    font-size: 40px;
+}
+
+.hr4{
+    margin: -40px 300px;
+    width: 90px;
+    border: 3px solid #E49C99    
+}
+ul{
+    margin-top: 130px;
+}
+ul>li{
+    width: auto;
+}
+.ul{
+  color: #DB524D;  
+}
+span{
+    color: black;
+}
+
+.lasthr{
+    margin-top: 150px;
+    width: 1342px;
+    height: 0px;
+    border: 1px solid #E6E6E6;
+}
+
+.links{
+    margin: 60px 300px;
+    justify-content: space-evenly;
+    display: flex;
+}
+a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+.made{
+    margin: 200px auto;
+    width: 232px;
+    height: 15px;
+    font-family: Montserrat;
+    font-size: 22px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.bilu{
+    color: #DB524D;   
+}
+
+.pomo{
+    margin: -120px  auto;
+    width: 395px;
+    height: 12px;
+    
+    font-family: Montserrat;
+    font-size: 20px;
+    
+    color: #000000;
+    
+}
