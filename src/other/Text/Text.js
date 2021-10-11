@@ -4,7 +4,7 @@ import './Text.css';
 
 const Text = () => {
     return (
-        <div>
+        <div className='headtext'>
             <p className='textfirst'>An online Pomodoro Timer to boost your productivity</p>
             <p className='texttheme1'>What is Pomofocus?</p>
             <hr className='hr1'/>
@@ -49,7 +49,6 @@ const Text = () => {
                 <a href='#'>SIMPLE VERSION</a>
             </div>
             <p className='made'>Made with by <span className='bilu'>BILAL</span> </p>
-            <p className='pomo'>©Pomofocus 2021. All Rights Reserved.</p>
             <p className='pomo'>©Pomofocus 2021. All Rights Reserved.</p>
 
         </div>

@@ -32,41 +32,42 @@
     display: flex;
     padding: 4px 8px;
     width: 86px;
-    height: 28px;
+    height: 26px;
     background: rgba(255, 255, 255, 0.3);
     border-radius: 3px;
+
 }
 .reporti{
-    width: 30px;
+    width: 26px;
+    height: 24px;
 }
 .reportt{
     margin-top: 5px;
     margin-left: 5px;
-    width: 49px;
-    height: 17px;
     font-family: Montserrat;
-    font-size: 20px;
-    line-height: 17px;
+    font-size: 14px;
     color: #FFFFFF;
+    margin: 3px 3px;
 }
 
 .setting{
     border: none;
     display: flex;
-    padding: 6px 8px;
-    width: 116px;
-    height: 36px;
+    padding: 4px 8px;
+    width: 115px;
+    height: 34px;
     background: rgba(255, 255, 255, 0.3);
     border-radius: 3px;
 }
 .settingi{
-    width: 25px;
+    width: 22px;
 }
 .settingt{
+    margin-top: 3px;
     border: none;
     background: none;
     font-family: Montserrat;
-    font-size: 20px;
+    font-size: 14px;
     color: #FFFFFF;
 }
 
