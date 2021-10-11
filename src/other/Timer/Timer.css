@@ -2,8 +2,8 @@
     margin-top: 100px;
     margin-left: 372px;
     padding: 40px 60px;
-    width: 457px;
-    height: 326px;
+    width: 490px;
+    height: 366px;
     background: rgba(255, 255, 255, 0.3);
     box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.25);
     border-radius: 8px;
@@ -26,46 +26,44 @@
 }
 
 .btn3{
-    width: 120px;
-    height: 40px;
     border: none;
     background: none;
     font-family: Montserrat;
     font-weight: bold;
-    font-size: 19px;
+    font-size: 16px;
     color: #FFFFFF;
-    margin: 8px 12px;
+    margin: 0px 12px;
 }
 .time{
-    width: 737px;
-    height: 146px;
     font-family: Montserrat;
     font-weight: bold;
     font-size: 160px;
     color: #FFFFFF;
-    margin: 6px 50px;
+    margin: 6px 30px;
 }
 
 .stopc{
-    display: flex;
-    align-items: center;
-    padding: 8px 24px;
-    height: 60px;
+    padding: 8px 32px;
     border-radius: 6px;
-    margin: 0px 150px;
+    margin: 0px 110px;
 }
 .stop{
-    border: none;
-    width: auto;
     font-family: Montserrat;
     font-weight: bold;
     font-size: 36px;
     text-transform: uppercase;
     color: #DB524D;
-    margin: 0px 10px;
+    margin: 0px 15px;
 }
 
+.playbtn{
+    border: none;
+    background: none;
+}
 .play{
-    bottom: 32.22%;
-    background: #FFFFFF;
+    width: 37px;
+    height: 34px;
+    margin: 15px -80px;
+    padding: 0px 20px;
+    border-radius: 8px;
 }

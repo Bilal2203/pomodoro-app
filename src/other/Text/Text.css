@@ -1,22 +1,21 @@
+.headtext{
+    margin: 360px 0px;
+    height: 2800px;
+}
+
 .textfirst{
     margin: 100px 300px;
-    width: 820px;
-    height: 78px;
     
     font-family: Montserrat;
     font-weight: bold;
-    font-size: 47px;
-    line-height: 39px;
-    color: #000000;
+    font-size: 37px;
 }
 
 .texttheme1{
     margin: 80px 300px;
-    width: 450px;
     height: 0px;
     font-family: Montserrat;
-    font-size: 40px;
-    color: #000000;
+    font-size: 29px;
 }
 
 .hr1{
@@ -31,7 +30,7 @@
     height: 111px;
     font-family: Montserrat;
     font-style: normal;
-    font-size: 28px;
+    font-size: 23px;
     line-height: 22px;
     color: #000000;
 }
@@ -41,7 +40,7 @@
     width: 450px;
     height: 0px;
     font-family: Montserrat;
-    font-size: 40px;
+    font-size: 29px;
     color: #000000;
 }
 
@@ -57,7 +56,7 @@
     height: 111px;
     font-family: Montserrat;
     font-style: normal;
-    font-size: 28px;
+    font-size: 23px;
     line-height: 22px;
     color: #000000;
 }
@@ -65,7 +64,7 @@
 .texttheme3{
     margin: 180px 300px;
     font-family: Montserrat;
-    font-size: 40px;
+    font-size: 29px;
     color: #000000;
 }
 
@@ -87,14 +86,13 @@ li{
     
     font-family: Montserrat;
     font-style: normal;
-    font-size: 26px;
-    line-height: 20px;
+    font-size: 21px;
 }
 
 .texttheme4{
     margin:80px 300px;
     font-family: Montserrat;
-    font-size: 40px;
+    font-size: 29px;
 }
 
 .hr4{
@@ -134,11 +132,11 @@ a{
 }
 
 .made{
-    margin: 200px auto;
+    margin: 160px auto;
     width: 232px;
     height: 15px;
     font-family: Montserrat;
-    font-size: 22px;
+    font-size: 17px;
     line-height: 15px;
     color: #000000;
 }
@@ -148,13 +146,11 @@ a{
 }
 
 .pomo{
-    margin: -120px  auto;
+    margin: -100px  auto;
     width: 395px;
     height: 12px;
-    
     font-family: Montserrat;
-    font-size: 20px;
-    
+    font-size: 15px;
     color: #000000;
     
 }

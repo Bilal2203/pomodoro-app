@@ -4,7 +4,7 @@ import './Text.css';
 
 const Text = () => {
     return (
-        <div>
+        <div className='headtext'>
             <p className='textfirst'>An online Pomodoro Timer to boost your productivity</p>
             <p className='texttheme1'>What is Pomofocus?</p>
             <hr className='hr1'/>

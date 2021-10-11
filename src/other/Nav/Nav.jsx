@@ -11,7 +11,7 @@ const Nav = () => {
             <div className='parents'>
             <div className='pomofocus'>
                 <img src={iconW} alt="" />
-                <p className='pomofocust'>Pomofocus</p>
+                <p >Pomofocus</p>
             </div>
                 <div className='box'>
                     <div className="report">
@@ -20,7 +20,7 @@ const Nav = () => {
                     </div>
                     <button className='setting'>
                         <img className='settingi' src={settings} alt="" />
-                        <button className='settingt' >Settings</button>
+                        <button className='settingt'>Settings</button>
                     </button>
                     
                 </div>
