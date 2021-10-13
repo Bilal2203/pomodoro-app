@@ -1,0 +1,141 @@
+.m { 
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(0,0,0,0.6); 
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.8s;
+    
+}
+
+.m.active { 
+    opacity: 1;
+    pointer-events: all;
+}
+
+.m_content { 
+    padding: 20px;
+    border-radius:12px; 
+    width: 480px;
+    height: 519px;
+    transform: scale(0.5);
+    transition: 0.4s all;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    
+
+}
+
+.m_content.active { 
+    transform: scale(1);
+}
+
+.TS { 
+    display: flex;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+.TS_t { 
+    font-size: 24px;
+    color: #BCBCBC;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.t-min { 
+    margin-right: 380px;
+    color: black;
+    font-weight: 600;
+    font-size: 12px;
+
+}
+
+.box-P_SH_L { 
+    display: flex;
+    justify-content: left;
+    margin-bottom: 35px;
+}
+
+.Theme { 
+    color: #BCBCBC;
+    font-size: 12px;
+    margin-left: 30px;
+
+}
+
+.Inputs { 
+    width: 61px;
+    height: 37px;
+    background: #EFEFEF;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;  
+}
+
+.A_S-three { 
+    display: flex;
+    justify-content: left;
+}
+
+.theme-q { 
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    width: 300px;
+    text-align: left;
+}
+
+
+.turn { 
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.write { 
+    width: 48px;
+    height: 37px;
+    background: #c5c5c5;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+
+    
+}
+
+.OK{ 
+    width: 79px;
+    height: 49px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    background-color:#294b94; 
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 390px;
+    margin-top: 30px;
+}

@@ -1,0 +1,63 @@
+.nextM { 
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(0,0,0,0.6); 
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.8s;
+} 
+
+.nextM .active { 
+    opacity: 1;
+    pointer-events: all;
+}
+
+.mdiv { 
+    width: 485px;
+    height: 195px;
+    background-color:white; 
+}
+
+.textR { 
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.textE { 
+    font-weight: normal;
+    font-size: 14px;
+}
+
+
+.nextB { 
+    padding-top: 50px;
+}
+
+.nextOK { 
+    margin-left: 200px;
+    width: 63px;
+    background-color:#373737;; 
+    color: white;
+    font-size: 14px;
+    border-radius: 6px;
+    border: none;
+    height: 37px;
+}
+
+.nextCancel{
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 0px;
+    color: #373737;;
+    font-size: 14px;
+    width: 130px;
+    border-radius: 6px;
+    border:1px solid #373737;;
+    height: 37px;
+}

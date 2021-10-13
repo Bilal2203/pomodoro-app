@@ -1,0 +1,21 @@
+.pomofocus.background
+{ 
+    background-color: #db524d;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.shortBreak.background
+{ 
+    background-color: #468E91;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.longBreak.background
+{ 
+    background-color: #437EA8;
+    font-family: 'Montserrat', sans-serif;
+}
+.text{
+    background: white;
+}
+
