@@ -1,0 +1,79 @@
+.timercontainer{
+    width: 457px;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 150px;
+    margin-top: 50px;
+    height: 326px;
+    background: rgba(255, 255, 255, 0.3);
+    color: white;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.color1 { 
+   
+    width: 115px;
+    height: 26px;
+    font-weight: bold;
+    margin-top: 30px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+}
+
+.color1.pomofocusbutton1{
+    background-color: #db524d;
+}
+
+.color1.shortBreakbutton2{
+    background-color: #468E91;
+}
+
+.color1.longBreakbutton3{
+    background-color: #437EA8;
+}
+
+
+
+.timetext2 { 
+    font-weight: bold;
+    font-size: 120px;
+    color: white;
+    margin: 0;
+}
+
+
+
+.timebtn3 { 
+    width: 115px;
+    height: 28px;
+    font-weight: 600;
+    margin-top: 30px;
+    border-radius: 6px;
+    border: none;
+    background-color:none;
+    color: white;
+
+}
+
+a {
+    text-decoration: none;
+  }
+
+  .timebuttons { 
+      display: flex;
+      justify-content: space-between;
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+
+  .iconnext {
+      margin-left: 35px;
+  }
+
+  .btnstart {
+      margin-left: 80px;
+  }
